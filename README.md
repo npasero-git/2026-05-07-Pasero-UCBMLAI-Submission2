@@ -39,7 +39,7 @@ Polynomial Ridge is the final model. RMSE is on log-price scale. The model expla
 
 ## Notebook
 
-[prompt_II.ipynb](prompt_II.ipynb)
+[2026-05-07-Pasero-UCBMLAI-Submission2.ipynb](2026-05-07-Pasero-UCBMLAI-Submission2.ipynb)
 
 ## Data
 
